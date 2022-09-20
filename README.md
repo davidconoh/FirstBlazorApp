@@ -4,15 +4,17 @@ Trying out Blazor for the first time? Demo this app for first-time introduction.
 ![firstblazorapp.gif](https://res.cloudinary.com/davidconoh/image/upload/v1663602485/firstblazorapp.gif)
 
 ## 💡 Introduction
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor</a> Blazor is a feature of <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">ASP.NET</a>, the popular web development framework that extends the .NET developer platform with tools and libraries for building interactive web UIs using C# instead of JavaScript. Both client and server code is written in C#, allowing you to share code and libraries.
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor</a> is a feature of <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank">ASP.NET</a>, the popular web development framework that extends the .NET developer platform with tools and libraries for building interactive web UIs using C# instead of JavaScript. Both client and server code is written in C#, allowing you to share code and libraries.
 
 ## 📑 Getting started
 <a href="https://dotnetfoundation.org/" target="_blank">.NET Foundation</a> projects are well maintained, easy to adopt, and have great documentation. However, Javascript can be a subtle language for .NET teams to take on in a short time-frame for building out rapidly scaling modern web apps. <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">Blazor</a> can be quite the alternative.
 
 ## ❇️❇️❇️ Prerequisites
-Before continuing to run this project on your local workstation, make sure you have the following :
+Before continuing to run this project on your local workstation, make sure you have the following Software setup:
 - <a href="https://dotnet.microsoft.com/en-us/download" target="_blank">.NET SDK 6.0x</a> (preferred)
 - <a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a>
+- <a href="https://code.visualstudio.com/docs/languages/dotnet" target="_blank">.NET Extension Pack for VS Code</a> (optional)
+
 
 For more information, visit <a href="https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro" target="_blank">Blazor Tutorial - Build your first Blazor app</a>.
 
@@ -66,7 +68,7 @@ For more information, visit <a href="https://dotnet.microsoft.com/en-us/learn/as
     ```
     dotnet watch
     ```
-    Optionally, you can run and debug the application by pressing `F5` on your keyboard.
+    If you installed the extension, you can run `debug mode` by pressing `F5` on your keyboard.
 
 
 ## ✔️ License
@@ -85,5 +87,5 @@ This repository is meant to be utilized by the instructor/facilitator for educat
 
 ## 📥 Version
 ```
-Version: 0.0.1
+Version: 0.0.2
 ```
